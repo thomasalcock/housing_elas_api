@@ -13,5 +13,5 @@ All endpoints are available via `GET` or `POST` requests. Data should be sent vi
 
 To run the API locally, navigate into the root of the repository and run `python housing_api.py`.
 
-# Issues
+## Issues
 The app crashed after sending requests to the `plot` endpoint. This will be fixed at some point.
